@@ -3,7 +3,7 @@
 </p>
 
 # Week 1
-###### 10/16/2017 - 10/23/2017 
+###### 10/16/2017 - 10/23/2017
 
 Implement the following methods of a linked list:
 - insert()
@@ -29,3 +29,9 @@ Find will return a node from the Linked List with the given value. Null is retur
 Node remove(Node head, int value);
 ```
 Remove will remove a node with a given value from the Linked List and return that node. Null is returned if no node is removed.
+
+## Testing
+`$ make test`
+
+## Source
+Exercise from [Programming Problems in Java](https://www.amazon.com/Programming-Problems-Java-Technical-Interview-ebook/dp/B00XZ1LYBK/ref=dp_kinw_strp_1)
