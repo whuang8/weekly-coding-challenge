@@ -1,3 +1,7 @@
+<p align="center">
+  <img src ="https://imgs.xkcd.com/comics/travelling_salesman_problem.png" />
+</p>
+
 # Weekly Coding Challenges
 
 Various weekly programming exercises to help establish l33t c0der st@tus
